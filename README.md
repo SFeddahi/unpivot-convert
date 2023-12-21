@@ -55,5 +55,5 @@ Contributions are welcome! If you encounter any issues or wish to enhance the fu
 
 ## License
 
-This project is licensed under the MIT License - see the MI[LICENSE]() file for details.
+This project is licensed under the MIT License - see the MI[LICENSE](https://github.com/SFeddahi/unpivot-convert/blob/b558a50e8872baeb4a61b72e13612f5af8dceabc/MIT-LICENSE) file for details.
 ```
